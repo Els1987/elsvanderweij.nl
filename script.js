@@ -4,9 +4,7 @@
  let sidebar = document.getElementById("sidebar");
  let sidebarhome = document.getElementById("sidebarhome");
 
-//muziek
- let muziek ="";
- let logos = document.getElementById("logo"); 
+
 
 
 
@@ -60,7 +58,9 @@
   "nr11", "nr12", "nr16", "nr17", "nr18", "nr19", "nr21", "nr24"];
   
 
-
+//muziek
+ let muziek ="";
+ let logos = document.getElementById("logo"); 
 
  logos.addEventListener("mousedown", speelmuziek);
  logos.addEventListener("mousedown", animatie);
