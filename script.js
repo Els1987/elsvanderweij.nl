@@ -51,7 +51,7 @@
 
 
 //muziek bij klikken logo
-
+/*
  const myMusicarray = ["nr1goed", "nr2goed", "nr4", "nr5", "nr6", "nr7", "nr8", "nr9", "nr10",
   "nr11", "nr12", "nr13", "nr14", "nr15", "nr16", "nr17", "nr18", "nr19", "nr21", "nr24"];
   
@@ -69,7 +69,7 @@
  let keuze = muziekkeuze.pop();//de laatste eraf
  muziek = new Audio("./muziekwebsitegoed/" + keuze + ".mp3");
  muziek.play();
- }
+ } */
 
 //logo animatie bij laden
 
