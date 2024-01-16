@@ -1748,7 +1748,7 @@ box-shadow: 0px 5px hsl(50, 86%, 46%, 30%);
 }
 
 footer {
-    background-image: url(img/footer.png);
+    background-image: url(img/footer-2x.png);
     background-size: cover;
     border-top-style: solid;
     border-top-color:  hsl(50, 86%, 46%, 100%) ;
@@ -1759,7 +1759,7 @@ footer {
 
 @media  screen and (max-width: 767px) {
     footer {
-        background-size: auto;
+        background-size: cover;
         font-size: 0.9em;
     }
     
