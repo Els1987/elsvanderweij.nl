@@ -1324,6 +1324,7 @@ border-radius: 20px;
 @media screen and (min-width: 250px) and (max-width: 767px) {
 .sidebar{
     margin-block-start: 42px !important;
+    display: none !important;
 }
 
 nav a {
