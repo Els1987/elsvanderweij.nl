@@ -1520,7 +1520,7 @@ object-position: 50% 10%;
 } 
 
 .foto4 >img {
-    object-position: 55% 0% !important;
+    object-position: 55% 0%;
 }
 
 .foto5 > img {
