@@ -73,7 +73,6 @@
  muziek = new Audio("./muziekwebsitegoed/" + keuze + ".mp3");
  muziek.play();
  if(myMusicarray==""){
-  alert("hoi");
  myMusicarray = ["nr1goed", "nr2goed", "nr4", "nr8", 
   "nr11", "nr12", "nr16", "nr17", "nr18", "nr19", "nr21", "nr24"];
  } 
